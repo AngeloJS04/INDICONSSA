@@ -7,7 +7,7 @@ export const Contact = () => {
         <div className="container">
             <Header/>
             <hr/>
-            <h2 className="text-center mb-2">Contactanos</h2><hr className="bg-info"/>
+            <h2 className="text-center mb-2">Contactos</h2><hr className="bg-info"/>
         <section className="section">
            
             <form action="/contact" method="post" class="form_contact"id="form">
@@ -30,7 +30,7 @@ export const Contact = () => {
         </form>
         </section>
             
-            
+
         </div>
     )
 }
